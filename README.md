@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Basic Skeleton for future development
+Basic HTML project for future development, first steps in HTML
